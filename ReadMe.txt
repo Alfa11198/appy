@@ -1,1 +1,2 @@
-This is a new project
+This is a new project.
+MERN Stack Based
