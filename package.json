@@ -1,0 +1,26 @@
+{
+  "name": "appy",
+  "version": "1.0.0",
+  "description": "This is a new project.\r MERN Stack Based",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfa11198/appy.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfa11198/appy/issues"
+  },
+  "homepage": "https://github.com/Alfa11198/appy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
